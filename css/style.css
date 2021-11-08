@@ -11,7 +11,7 @@
   }
   
   ::selection {
-    background-color: #ffa588;
+    background-color: #E48365;
   }
   
   ::-webkit-scrollbar {
@@ -20,7 +20,7 @@
   }
   
   ::-webkit-scrollbar-thumb {
-    background-color: #ffa588;
+    background-color: #E48365;
   }
   
   .navbar {
@@ -59,7 +59,7 @@
   }
   
   .navbar-menu a:hover {
-    color: #ffa588 !important;
+    color: #E48365 !important;
   }
   
   .sticky .navbar-menu a {
@@ -128,7 +128,7 @@
   .head-subtitle {
     font-family: "Poppins", sans-serif;
     font-size: 88px;
-    color: #ffa588;
+    color: #E48365;
     line-height: 132px;
     font-weight: 600;
   }
@@ -152,13 +152,13 @@
   }
   
   #home .buttons a {
-    color: #ffa588;
+    color: #E48365;
     display: inline-block;
     font-size: 15px;
     font-weight: 500;
     margin: 15px 30px;
     width: 180px;
-    border: 1px solid #ffa588;
+    border: 1px solid #E48365;
     padding: 14px 0;
     border-radius: 10px;
     transition: 0.2s linear;
@@ -166,7 +166,7 @@
   
   #home .buttons a:hover,
   #home .buttons a:nth-child(1) {
-    background-color: #ffa588;
+    background-color: #E48365;
     color: black;
   }
   
@@ -178,7 +178,7 @@
   .section-title {
     font-size: 56px;
     font-weight: 600;
-    color: #ffa588;
+    color: #E48365;
     /* margin-top: 50px; */
   }
   
@@ -232,7 +232,7 @@
     height: 2px;
     margin-top: 80px;
     margin-bottom: 80px;
-    background-color: #ffa588;
+    background-color: #E48365;
     border-radius: 3px;
     left: calc(50% - 150px);
   }
@@ -241,7 +241,7 @@
     width: calc(30% - 10px);
     text-align: center;
     height: 300px;
-    border: 2px solid #ffa588;
+    border: 2px solid #E48365;
     border-radius: 9px;
     margin: 20px 0;
     padding: 40px 20px;
@@ -253,7 +253,7 @@
     width: calc(40% - 50px);
     height: 350px;
     text-align: center;
-    border: 2px solid #ffa588;
+    border: 2px solid #E48365;
     border-radius: 9px;
     padding: 40px 20px;
     color: #fff;
@@ -272,13 +272,13 @@
     margin-bottom: 40px;
   }
   .service h4 {
-    color: #ffa588;
+    color: #E48365;
     font-weight: 600;
     size: 32px;
   }
   
   .serviceMid h4 {
-    color: #ffa588;
+    color: #E48365;
     font-weight: 600;
     size: 32px;
   }
@@ -304,7 +304,7 @@
     height: 50px;
     margin: 10px 0;
     background: none;
-    border: 1px solid #ffa588;
+    border: 1px solid #E48365;
     outline: none;
     padding: 20px;
     border-radius: 5px;
@@ -320,12 +320,12 @@
   
   .contact-form .btn {
     width: 300px;
-    border: 2px solid #ffa588;
+    border: 2px solid #E48365;
     padding: 5px;
     margin-top: 20px;
     margin-left: auto;
     cursor: pointer;
-    background-color: #ffa588;
+    background-color: #E48365;
     border-radius: 8px;
     color: #202124;
     font-size: 20px;
@@ -338,7 +338,7 @@
     position: absolute;
     height: 250px;
     margin-top: 20px;
-    background-color: #ffa588;
+    background-color: #E48365;
     border-radius: 3px;
     left: calc(67% - 200px);
   }
@@ -355,7 +355,7 @@
   
   .contact-head {
     padding-bottom: 10px;
-    color: #ffa588;
+    color: #E48365;
   }
   
   .contact-icon img {
@@ -388,7 +388,7 @@
     right: 40px;
     width: 40px;
     height: 50px;
-    background-color: #ffa588;
+    background-color: #E48365;
     color: #fff;
     border: none;
     border-radius: 200px;
@@ -421,7 +421,7 @@
     }
   
     .sticky .navbar-menu {
-      background-color: #ffa588;
+      background-color: #E48365;
     }
   
     .navbar-menu.active {
